@@ -49,7 +49,7 @@
             <a href="about us">About Us</a>
         </nav>
         <div>
-            <div class="righttext">
+            <div class="lions">
                 <h3>Lions: </h3>
                 <p>Introducing our pride of lions, led by our regal male, Leo, and his beautiful lioness companions,
                     Nala
@@ -141,7 +141,7 @@
             height: 7.8em;
         }
 
-        .righttext {
+        .lions {
             padding-bottom: 6.8%;
             /* margin-right: 5%; */
         }
