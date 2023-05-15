@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Archivo:wght@300&family=Bruno+Ace&family=Bruno+Ace+SC&family=Hind&family=Hind+Siliguri:wght@500&family=Monoton&family=Space+Grotesk&family=Titillium+Web:wght@600&family=Vina+Sans&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <header>
+        <h1>South Canterbury Wildlife Park</h1>
+        <h2>Welcome to South Canterbury's African Area!</h2>
+    </header>
+    <main>
+        <div>
+            <h3>Step into the African Savannah</h3>
+            <p>Experience the magic of Africa's diverse and captivating landscapes, right here in South Canterbury! Our
+                African area is home to some of the continent's most iconic animals, including the majestic lion, the
+                swift cheetah, and the towering giraffe.
+                Stroll through our park and observe these magnificent creatures up close, while learning about their
+                natural habitats, behaviors, and the conservation efforts in place to protect their future. Don't miss
+                our daily animal encounters, feeding sessions, and interactive talks led by our passionate team of
+                animal experts. Unleash your inner explorer and experience the African Savannah today!
+            </p>
+            <img src="cheetah-1-rodrigo-ardilha.jpg" alt="">
+            <img src="cheetah-2-christin-noelle.jpg" alt="">
+            <img src="cheetah-3-sammy-wong.jpg" alt="">
+
+            <h3>Cheetahs:</h3>
+            <p>Meet our swift and graceful cheetah duo, Dash and Blaze. These elegant felines hold the title of the
+                fastest land animals on Earth, capable of reaching speeds up to 60 miles per hour (97 km/h) in a matter
+                of seconds. Watch them in action as they display their extraordinary agility and acceleration during our
+                daily cheetah runs. Get to know more about their unique hunting strategies, their vulnerable status in
+                the wild, and the initiatives aimed at safeguarding their population.</p>
+
+        </div>
+        <nav>
+            <a href="homepage">Home</a>
+            <a href="african area">African Area</a>
+            <a href="american area">American Area</a>
+            <a href="arctic area">Arctic Area</a>
+            <a href="about us">About Us</a>
+        </nav>
+        <div>
+            <h3>Lions: </h3>
+            <p>Introducing our pride of lions, led by our regal male, Leo, and his beautiful lioness companions, Nala
+                and Zara. These magnificent big cats are known for their prowess, strength, and social nature. In our
+                park, you'll have the chance to observe the complex dynamics of the lion pride as they interact, play,
+                and rest together. Learn about their hunting techniques, their roles within the pride, and the
+                conservation efforts in place to protect these incredible animals in the wild.</p>
+            <img src="lion-1-jeremy-avery.jpg" alt="">
+            <img src="lion-2-leonard-von-bibra.jpg" alt="">
+            <img src="giraffe-1-nikolay-tchaouchev.jpg" alt="">
+            <img src="giraffe-2-sian-cooper.jpg" alt="">
+            <h3>Giraffes:</h3>
+            <p>Say hello to our gentle giants, Skyler, the tallest in our park, and Luna, a young and curious female.
+                These awe-inspiring creatures are known for their elongated necks and distinctive spotted patterns,
+                which provide camouflage in the wild. At our wildlife park, you can witness Skyler and Luna gracefully
+                browsing on tree leaves and engaging in gentle interactions with each other. Learn about their unique
+                physiology, social behaviors, and the ongoing conservation efforts to preserve their natural habitats.
+            </p>
+        </div>
+    </main>
+    <footer>
+        &copy; g 23
+    </footer>
+    <style>
+        h1 {
+            grid-area: h;
+            font-family: 'Bruno Ace SC', cursive;
+            font-size: 3em;
+            background-color: #e09f3e;
+            color: white;
+            padding: 3%;
+        }
+
+        h2 {
+            font-family: 'Bruno Ace', cursive;
+            margin-left: 30px;
+            text-align: center;
+        }
+
+        h3 {
+            font-family: 'Bruno Ace', cursive;
+        }
+
+        p {
+            font-family: 'Space Grotesk', sans-serif;
+        }
+
+        a {
+            font-family: 'Space Grotesk', sans-serif;
+            text-decoration: none;
+            color: #335c67;
+            font-size: 1.2em;
+            padding: 5%;
+            margin: 1em;
+            margin-bottom: 3em;
+            display: block;
+        }
+
+        a:hover {
+            background-color: #335c67;
+            color: white;
+        }
+
+        main {
+            grid-area: m;
+            display: flex;
+            flex-direction: row;
+        }
+
+        footer {
+            font-family: 'Space Grotesk', sans-serif;
+            margin-left: 30px;
+            padding: 3%;
+            background-color: #fff3b0;
+            color: #000000;
+            text-align: center;
+        }
+
+        div {
+            margin: 0px 20px;
+            width: 40vw;
+        }
+
+        img {
+            height: 7.8em;
+        }
+    </style>
+</body>
