@@ -30,6 +30,7 @@
             <img src="polar-bear-1-jason-hillier.jpg" alt="">
             <img src="polar-bear-2-peter-neumann.jpg" alt="">
             <img src="arctic-fox-2-sridhar-chilimuri.jpg" alt="">
+            <h3>Alex</h3>
             <p>
                 Alex, an avid wildlife enthusiast with a keen eye for detail, has been instrumental in designing the
                 park's innovative and immersive habitats. Alex's deep understanding of animal behavior and welfare
@@ -47,7 +48,7 @@
             <a href="about us">About Us</a>
         </nav>
         <div>
-            <h3>Arctic Foxes: </h3>
+            <h3>Taylor </h3>
             <p>Taylor, a natural-born educator with a flair for communication, is responsible for the park's diverse
                 range of educational programs and activities. Taylor's infectious enthusiasm for wildlife and
                 conservation resonates with visitors of all ages, making learning both engaging and enjoyable. With a
@@ -59,7 +60,7 @@
             <img src="arctic-fox-3-teresa.jpg" alt="">
             <img src="fur-seal-1-karen-lau.jpg" alt="">
             <img src="fur-seal-2-simon-infanger.jpg" alt="">
-            <h3>Fur Seals:</h3>
+            <h3></h3>
             <p>Together, Alex and Taylor have turned their vision into a reality, creating a wildlife park that not only
                 showcases some of the world's most extraordinary animals but also inspires a new generation of wildlife
                 enthusiasts and conservationists. Their passion, dedication, and determination at such a young age serve
@@ -105,6 +106,7 @@
             margin: 1em;
             margin-bottom: 3em;
             display: block;
+            text-align: center;
         }
 
         a:hover {
@@ -120,7 +122,7 @@
 
         footer {
             font-family: 'Space Grotesk', sans-serif;
-            margin-left: 30px;
+            /* margin-left: 30px; */
             padding: 3%;
             background-color: #fff3b0;
             color: #000000;
@@ -134,6 +136,11 @@
 
         img {
             height: 7.8em;
+        }
+
+        .righttext {
+            padding-bottom: 6.8%;
+            /* margin-right: 5%; */
         }
     </style>
 </body>
