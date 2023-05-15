@@ -16,18 +16,37 @@
 <body>
     <header>
         <h1>South Canterbury Wildlife Park</h1>
-        <h2>Explore the Enchanting Arctic Tundra
-        </h2>
+        <h2>Welcome to South Canterbury's Arctic Area!</h2>
     </header>
     <main>
         <div>
-            <p>Experience the magic of Africa's diverse and captivating landscapes, right here in South Canterbury! Our
-                African area is home to some of the continent's most iconic animals, including the majestic lion, the
-                swift cheetah, and the towering giraffe.
+            <h3>Explore the Enchanting Arctic Tundra</h3>
+
+            <p>Embrace the chill and journey to the frozen wonders of the Arctic, where you'll encounter some of the
+                world's most remarkable cold-weather inhabitants. Our Arctic area features the awe-inspiring polar bear,
+                the cunning arctic fox, and the charming fur seal, each perfectly adapted to life in the icy tundra.
+
+                Witness these magnificent animals in action, as you learn about their unique adaptations, survival
+                strategies, and the challenges they face in a rapidly changing environment. Take part in our interactive
+                presentations, meet our dedicated team of Arctic experts, and gain a deeper appreciation for the
+                incredible creatures that call the Arctic home.
+
             </p>
-            <img src="grizzly-1-zdenek-machacek.jpg" alt="">
-            <img src="moose-2-zachery-perry.jpg" alt="">
-            <img src="arctic-fox-2-sridhar-chilimuri.jpg" alt="">
+            <img src="bison-1-pete-nuij.jpg" alt="">
+            <img src="bison-2-philip-brown.jpg" alt="">
+            <img src="bison-3-goutham-ganesh.jpg" alt="">
+            <img src="moose-1-sam-te-kiefte.jpg" alt="">
+
+            <h3>Polar Bears:</h3>
+            <p>Introducing our majestic polar bear duo, Aurora and Frost. These awe-inspiring creatures are the largest
+                land carnivores on Earth and are perfectly adapted to life in the harsh Arctic environment. Watch as
+                Aurora and Frost demonstrate their incredible swimming and hunting skills in our expansive Arctic
+                habitat. Learn about their unique adaptations, their critical role in the Arctic ecosystem, and the
+                urgent conservation efforts in place to address the threats they face due to climate change and habitat
+                loss.
+
+            </p>
+
         </div>
         <nav>
             <a href="homepage">Home</a>
@@ -37,13 +56,26 @@
             <a href="about us">About Us</a>
         </nav>
         <div>
-            <img src="cheetah-1-rodrigo-ardilha.jpg" alt="">
-            <img src="lion-1-jeremy-avery.jpg" alt="">
-            <img src="polar-bear-1-jason-hillier.jpg" alt="">
-            <p>Stroll through our park and observe these magnificent creatures up close, while learning about their
-                natural habitats, behaviors, and the conservation efforts in place to protect their future. Don't miss
-                our daily animal encounters, feeding sessions, and interactive talks led by our passionate team of
-                animal experts. Unleash your inner explorer and experience the African Savannah today!
+            <h3>Arctic Foxes: </h3>
+            <p>Meet our playful arctic fox pair, Snow and Ice. These charming, nimble creatures are known for their
+                striking white winter coats and incredible adaptability in the frigid Arctic climate. Observe Snow and
+                Ice as they display their keen hunting instincts, agility, and social behaviors in our Arctic area.
+                Discover more about their remarkable adaptations, their complex family structure, and the ongoing
+                conservation efforts aimed at protecting their natural habitats and populations.
+
+            </p>
+
+            <img src="beaver-1-svetozar-cenisev.jpg" alt="">
+            <img src="moose-2-zachery-perry.jpg" alt="">
+            <img src="beaver-2-francesco-ungaro.jpg" alt="">
+            <h3>Fur Seals:</h3>
+            <p>Say hello to our delightful fur seal family, Splash, Wave, and their playful pups. These endearing marine
+                mammals are known for their dense fur, impressive agility in water, and their ability to thrive in the
+                icy Arctic waters. Watch as Splash, Wave, and their pups demonstrate their incredible swimming and
+                diving abilities, while also showcasing their social interactions and vocalizations. Learn about their
+                unique physiology, their importance in the Arctic food chain, and the conservation efforts in place to
+                ensure the survival and protection of these captivating creatures.
+
             </p>
         </div>
     </main>
@@ -66,6 +98,10 @@
             text-align: center;
         }
 
+        h3 {
+            font-family: 'Bruno Ace', cursive;
+        }
+
         p {
             font-family: 'Space Grotesk', sans-serif;
         }
@@ -77,6 +113,7 @@
             font-size: 1.2em;
             padding: 5%;
             margin: 1em;
+            margin-bottom: 3em;
             display: block;
         }
 

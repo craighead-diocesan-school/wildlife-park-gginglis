@@ -1,13 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Archivo:wght@300&family=Bruno+Ace&family=Bruno+Ace+SC&family=Hind&family=Hind+Siliguri:wght@500&family=Monoton&family=Space+Grotesk&family=Titillium+Web:wght@600&family=Vina+Sans&display=swap"
+        rel="stylesheet">
+</head>
+
 <body>
     <header>
+        <h1>South Canterbury Wildlife Park</h1>
+        <h2>About Us</h2>
     </header>
-    <nav>
-
-    </nav>
     <main>
+        <div>
+            <h3>Meet the Young Visionaries: Alex and Taylor</h3>
 
+            <p>At just 20 years old, Alex and Taylor, the dynamic duo behind South Canterbury's Premier Wildlife Park,
+                have already made a significant impact in the world of wildlife conservation and education. Their
+                passion for animals and the environment started at a young age, leading them to pursue their dream of
+                creating a unique wildlife park that fosters a strong connection between people and nature.
+            </p>
+            <img src="polar-bear-1-jason-hillier.jpg" alt="">
+            <img src="polar-bear-2-peter-neumann.jpg" alt="">
+            <img src="arctic-fox-2-sridhar-chilimuri.jpg" alt="">
+            <p>
+                Alex, an avid wildlife enthusiast with a keen eye for detail, has been instrumental in designing the
+                park's innovative and immersive habitats. Alex's deep understanding of animal behavior and welfare
+                ensures that every aspect of the park prioritizes the comfort and well-being of its residents. From
+                hands-on experience working with wildlife rehabilitation centers to extensive research, Alex's
+                commitment to the animals is truly inspiring.
+            </p>
+
+        </div>
+        <nav>
+            <a href="homepage">Home</a>
+            <a href="african area">African Area</a>
+            <a href="american area">American Area</a>
+            <a href="arctic area">Arctic Area</a>
+            <a href="about us">About Us</a>
+        </nav>
+        <div>
+            <h3>Arctic Foxes: </h3>
+            <p>Taylor, a natural-born educator with a flair for communication, is responsible for the park's diverse
+                range of educational programs and activities. Taylor's infectious enthusiasm for wildlife and
+                conservation resonates with visitors of all ages, making learning both engaging and enjoyable. With a
+                background in environmental science, Taylor is dedicated to raising awareness about the importance of
+                protecting our planet's rich biodiversity.
+
+            </p>
+
+            <img src="arctic-fox-3-teresa.jpg" alt="">
+            <img src="fur-seal-1-karen-lau.jpg" alt="">
+            <img src="fur-seal-2-simon-infanger.jpg" alt="">
+            <h3>Fur Seals:</h3>
+            <p>Together, Alex and Taylor have turned their vision into a reality, creating a wildlife park that not only
+                showcases some of the world's most extraordinary animals but also inspires a new generation of wildlife
+                enthusiasts and conservationists. Their passion, dedication, and determination at such a young age serve
+                as a testament to the power of following your dreams and making a difference in the world.
+
+
+            </p>
+        </div>
     </main>
     <footer>
-
+        &copy; g 23
     </footer>
+    <style>
+        h1 {
+            grid-area: h;
+            font-family: 'Bruno Ace SC', cursive;
+            font-size: 3em;
+            background-color: #e09f3e;
+            color: white;
+            padding: 3%;
+        }
+
+        h2 {
+            font-family: 'Bruno Ace', cursive;
+            margin-left: 30px;
+            text-align: center;
+        }
+
+        h3 {
+            font-family: 'Bruno Ace', cursive;
+        }
+
+        p {
+            font-family: 'Space Grotesk', sans-serif;
+        }
+
+        a {
+            font-family: 'Space Grotesk', sans-serif;
+            text-decoration: none;
+            color: #335c67;
+            font-size: 1.2em;
+            padding: 5%;
+            margin: 1em;
+            margin-bottom: 3em;
+            display: block;
+        }
+
+        a:hover {
+            background-color: #335c67;
+            color: white;
+        }
+
+        main {
+            grid-area: m;
+            display: flex;
+            flex-direction: row;
+        }
+
+        footer {
+            font-family: 'Space Grotesk', sans-serif;
+            margin-left: 30px;
+            padding: 3%;
+            background-color: #fff3b0;
+            color: #000000;
+            text-align: center;
+        }
+
+        div {
+            margin: 0px 20px;
+            width: 40vw;
+        }
+
+        img {
+            height: 7.8em;
+        }
+    </style>
 </body>

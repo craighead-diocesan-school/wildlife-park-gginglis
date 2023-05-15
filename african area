@@ -49,16 +49,21 @@
             <a href="about us">About Us</a>
         </nav>
         <div>
-            <h3>Lions: </h3>
-            <p>Introducing our pride of lions, led by our regal male, Leo, and his beautiful lioness companions, Nala
-                and Zara. These magnificent big cats are known for their prowess, strength, and social nature. In our
-                park, you'll have the chance to observe the complex dynamics of the lion pride as they interact, play,
-                and rest together. Learn about their hunting techniques, their roles within the pride, and the
-                conservation efforts in place to protect these incredible animals in the wild.</p>
+            <div class="lions">
+                <h3>Lions: </h3>
+                <p>Introducing our pride of lions, led by our regal male, Leo, and his beautiful lioness companions,
+                    Nala
+                    and Zara. These magnificent big cats are known for their prowess, strength, and social nature. In
+                    our
+                    park, you'll have the chance to observe the complex dynamics of the lion pride as they interact,
+                    play,
+                    and rest together. Learn about their hunting techniques, their roles within the pride, and the
+                    conservation efforts in place to protect these incredible animals in the wild.</p>
+            </div>
             <img src="lion-1-jeremy-avery.jpg" alt="">
+            <img src="giraffe-2-sian-cooper.jpg" alt="">
             <img src="lion-2-leonard-von-bibra.jpg" alt="">
             <img src="giraffe-1-nikolay-tchaouchev.jpg" alt="">
-            <img src="giraffe-2-sian-cooper.jpg" alt="">
             <h3>Giraffes:</h3>
             <p>Say hello to our gentle giants, Skyler, the tallest in our park, and Luna, a young and curious female.
                 These awe-inspiring creatures are known for their elongated necks and distinctive spotted patterns,
@@ -104,6 +109,7 @@
             margin: 1em;
             margin-bottom: 3em;
             display: block;
+            text-align: center;
         }
 
         a:hover {
@@ -119,7 +125,7 @@
 
         footer {
             font-family: 'Space Grotesk', sans-serif;
-            margin-left: 30px;
+            /* margin-left: 30px; */
             padding: 3%;
             background-color: #fff3b0;
             color: #000000;
@@ -133,6 +139,11 @@
 
         img {
             height: 7.8em;
+        }
+
+        .lions {
+            padding-bottom: 6.8%;
+            /* margin-right: 5%; */
         }
     </style>
 </body>
