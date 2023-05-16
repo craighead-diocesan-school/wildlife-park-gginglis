@@ -5,14 +5,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>South Canterbury Wildlife Park</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link
         href="https://fonts.googleapis.com/css2?family=Archivo:wght@300&family=Bruno+Ace&family=Bruno+Ace+SC&family=Hind&family=Hind+Siliguri:wght@500&family=Monoton&family=Space+Grotesk&family=Titillium+Web:wght@600&family=Vina+Sans&display=swap"
         rel="stylesheet">
     <meta charset="UTF-8">
-    <title> South Canterbury Wildlife Park </title>
+    <!-- <title> South Canterbury Wildlife Park </title> -->
     <link rel="icon" href="wildlifefavicon.png">
 </head>
 
@@ -96,7 +96,6 @@
 
     <style>
         h1 {
-            grid-area: h;
             font-family: 'Bruno Ace SC', cursive;
             font-size: 3em;
             background-color: #e09f3e;
@@ -137,14 +136,12 @@
         }
 
         main {
-
             display: flex;
             flex-direction: row;
         }
 
         footer {
             font-family: 'Space Grotesk', sans-serif;
-            /* margin-left: 30px; */
             padding: 3%;
             background-color: #fff3b0;
             color: #000000;
@@ -166,11 +163,10 @@
             margin-right: 5%;
             display: block;
             height: 16vw;
-
         }
 
-        .bottom {
 
+        .bottom {
             margin-right: 5%;
             display: block;
             height: 16vw;

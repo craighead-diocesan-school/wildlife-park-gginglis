@@ -5,14 +5,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>South Canterbury Wildlife Park</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link
         href="https://fonts.googleapis.com/css2?family=Archivo:wght@300&family=Bruno+Ace&family=Bruno+Ace+SC&family=Hind&family=Hind+Siliguri:wght@500&family=Monoton&family=Space+Grotesk&family=Titillium+Web:wght@600&family=Vina+Sans&display=swap"
         rel="stylesheet">
     <meta charset="UTF-8">
-    <title> South Canterbury Wildlife Park </title>
+    <!-- <title>South Canterbury Wildlife Park</title> -->
     <link rel="icon" href="wildlifefavicon.png">
 </head>
 
@@ -38,21 +38,20 @@
                     habitats. Join us for guided tours, educational talks, and special events that celebrate the diverse
                     wildlife of the American continent.</p>
             </div>
-
-            <img src="bison-1-pete-nuij.jpg" alt="">
-            <img src="bison-2-philip-brown.jpg" alt="">
-            <img src="bison-3-goutham-ganesh.jpg" alt="">
-            <img src="moose-1-sam-te-kiefte.jpg" alt="">
-
+            <div class="img">
+                <img src="bison-1-pete-nuij.jpg" alt="">
+                <img src="bison-2-philip-brown.jpg" alt="">
+                <img src="bison-3-goutham-ganesh.jpg" alt="">
+                <img src="moose-1-sam-te-kiefte.jpg" alt="">
+            </div>
             <div class="bottom">
                 <h3>Bison:</h3>
                 <p>Introducing our robust bison herd, led by the mighty Thunder, and his companions, Storm and Breeze.
-                    These
-                    magnificent creatures, often referred to as buffalo, are symbols of the American West and once
-                    roamed
-                    the plains in vast numbers. Observe our bison as they graze on the grasslands, showcasing their
-                    strength
-                    and resilience. Learn about their historical significance, their role in the ecosystem, and the
+                    These magnificent creatures, often referred to as buffalo, are symbols of the American West and once
+                    roamed the plains in vast numbers. Observe our bison as they graze on the grasslands, showcasing
+                    their
+                    strength and resilience. Learn about their historical significance, their role in the ecosystem, and
+                    the
                     conservation efforts that have helped restore their populations in the wild.
                 </p>
             </div>
@@ -79,11 +78,11 @@
                     programs aimed at protecting their habitats and populations.
                 </p>
             </div>
-
-            <img src="beaver-1-svetozar-cenisev.jpg" alt="">
-            <img src="moose-2-zachery-perry.jpg" alt="">
-            <img src="beaver-2-francesco-ungaro.jpg" alt="">
-
+            <div class="img">
+                <img src="beaver-1-svetozar-cenisev.jpg" alt="">
+                <img src="moose-2-zachery-perry.jpg" alt="">
+                <img src="beaver-2-francesco-ungaro.jpg" alt="">
+            </div>
             <div class="bottom">
                 <h3>Beavers:</h3>
                 <p>Say hello to our industrious beaver family, Chip and Willow, along with their adorable kits. These
@@ -165,15 +164,17 @@
             /* margin-bottom: 20px; */
             width: 40vw;
             display: block;
+            /* margin-left: 5%; */
         }
 
         img {
             height: 7.8em;
+            /* margin-left: 0.5%; */
         }
 
         .top {
             margin-bottom: 5%;
-            margin-right: 5%;
+            margin-left: 5%;
             display: block;
             height: 16vw;
 
@@ -181,9 +182,11 @@
 
         .bottom {
 
-            margin-right: 5%;
+            margin-left: 5%;
             display: block;
             height: 16vw;
         }
+
+        .img {}
     </style>
 </body>
