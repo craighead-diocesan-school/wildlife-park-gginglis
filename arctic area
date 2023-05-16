@@ -11,9 +11,7 @@
     <link
         href="https://fonts.googleapis.com/css2?family=Archivo:wght@300&family=Bruno+Ace&family=Bruno+Ace+SC&family=Hind&family=Hind+Siliguri:wght@500&family=Monoton&family=Space+Grotesk&family=Titillium+Web:wght@600&family=Vina+Sans&display=swap"
         rel="stylesheet">
-    <meta charset="UTF-8">
-    <!-- <title> South Canterbury Wildlife Park </title> -->
-    <link rel="icon" href="wildlifefavicon.png">
+    <link rel="icon" href="favicon.png">
 </head>
 
 <body>
