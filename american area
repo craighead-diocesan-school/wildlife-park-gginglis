@@ -11,6 +11,9 @@
     <link
         href="https://fonts.googleapis.com/css2?family=Archivo:wght@300&family=Bruno+Ace&family=Bruno+Ace+SC&family=Hind&family=Hind+Siliguri:wght@500&family=Monoton&family=Space+Grotesk&family=Titillium+Web:wght@600&family=Vina+Sans&display=swap"
         rel="stylesheet">
+    <meta charset="UTF-8">
+    <title> South Canterbury Wildlife Park </title>
+    <link rel="icon" href="wildlifefavicon.png">
 </head>
 
 <body>
@@ -80,6 +83,7 @@
             <img src="beaver-1-svetozar-cenisev.jpg" alt="">
             <img src="moose-2-zachery-perry.jpg" alt="">
             <img src="beaver-2-francesco-ungaro.jpg" alt="">
+
             <div class="bottom">
                 <h3>Beavers:</h3>
                 <p>Say hello to our industrious beaver family, Chip and Willow, along with their adorable kits. These
@@ -95,9 +99,11 @@
             </div>
         </div>
     </main>
+
     <footer>
-        &copy; g 23
+        &copy; g 23 ♡♡♡
     </footer>
+
     <style>
         h1 {
             grid-area: h;

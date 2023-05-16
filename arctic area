@@ -11,6 +11,9 @@
     <link
         href="https://fonts.googleapis.com/css2?family=Archivo:wght@300&family=Bruno+Ace&family=Bruno+Ace+SC&family=Hind&family=Hind+Siliguri:wght@500&family=Monoton&family=Space+Grotesk&family=Titillium+Web:wght@600&family=Vina+Sans&display=swap"
         rel="stylesheet">
+    <meta charset="UTF-8">
+    <title> South Canterbury Wildlife Park </title>
+    <link rel="icon" href="wildlifefavicon.png">
 </head>
 
 <body>
@@ -18,6 +21,7 @@
         <h1>South Canterbury Wildlife Park</h1>
         <h2>Welcome to South Canterbury's Arctic Area!</h2>
     </header>
+
     <main>
         <div>
             <div class="top">
@@ -94,9 +98,11 @@
             </div>
         </div>
     </main>
+
     <footer>
-        &copy; g 23
+        &copy; g 23 ♡♡♡
     </footer>
+
     <style>
         h1 {
             grid-area: h;

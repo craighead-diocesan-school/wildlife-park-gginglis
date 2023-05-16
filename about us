@@ -11,6 +11,9 @@
     <link
         href="https://fonts.googleapis.com/css2?family=Archivo:wght@300&family=Bruno+Ace&family=Bruno+Ace+SC&family=Hind&family=Hind+Siliguri:wght@500&family=Monoton&family=Space+Grotesk&family=Titillium+Web:wght@600&family=Vina+Sans&display=swap"
         rel="stylesheet">
+    <meta charset="UTF-8">
+    <title> South Canterbury Wildlife Park </title>
+    <link rel="icon" href="wildlifefavicon.png">
 </head>
 
 <body>
@@ -18,6 +21,7 @@
         <h1>South Canterbury Wildlife Park</h1>
         <h2>About Us</h2>
     </header>
+
     <main>
         <div>
             <div class="top">
@@ -69,7 +73,7 @@
             <img src="polar-bear-1-jason-hillier.jpg" alt="">
 
             <div class="bottom">
-                <h3></h3>
+                <h3>yayyy</h3>
                 <p>Together, Alex and Taylor have turned their vision into a reality, creating a wildlife park that not
                     only
                     showcases some of the world's most extraordinary animals but also inspires a new generation of
@@ -80,9 +84,11 @@
             </div>
         </div>
     </main>
+
     <footer>
-        &copy; g 23
+        &copy; g 23 ♡♡♡
     </footer>
+
     <style>
         h1 {
             grid-area: h;
