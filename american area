@@ -18,33 +18,43 @@
         <h1>South Canterbury Wildlife Park</h1>
         <h2>Welcome to South Canterbury's American Area!</h2>
     </header>
+
     <main>
         <div>
-            <h3>Discover the American Wilderness</h3>
-            <p>Venture into the heart of the American wilderness and connect with the rugged beauty of North America's
-                most captivating species. Our American area showcases the incredible bison, the mighty moose, and the
-                industrious beaver - each with their own unique charm and allure.
+            <div class="top">
+                <h3>Discover the American Wilderness</h3>
+                <p>Venture into the heart of the American wilderness and connect with the rugged beauty of North
+                    America's
+                    most captivating species. Our American area showcases the incredible bison, the mighty moose, and
+                    the
+                    industrious beaver - each with their own unique charm and allure.
 
-                Immerse yourself in the rich tapestry of the American landscape, as you learn about the vital roles
-                these animals play in their ecosystems and the importance of conservation efforts in preserving their
-                habitats. Join us for guided tours, educational talks, and special events that celebrate the diverse
-                wildlife of the American continent.
+                    Immerse yourself in the rich tapestry of the American landscape, as you learn about the vital roles
+                    these animals play in their ecosystems and the importance of conservation efforts in preserving
+                    their
+                    habitats. Join us for guided tours, educational talks, and special events that celebrate the diverse
+                    wildlife of the American continent.</p>
+            </div>
 
-            </p>
             <img src="bison-1-pete-nuij.jpg" alt="">
             <img src="bison-2-philip-brown.jpg" alt="">
             <img src="bison-3-goutham-ganesh.jpg" alt="">
             <img src="moose-1-sam-te-kiefte.jpg" alt="">
 
-            <h3>Bison:</h3>
-            <p>Introducing our robust bison herd, led by the mighty Thunder, and his companions, Storm and Breeze. These
-                magnificent creatures, often referred to as buffalo, are symbols of the American West and once roamed
-                the plains in vast numbers. Observe our bison as they graze on the grasslands, showcasing their strength
-                and resilience. Learn about their historical significance, their role in the ecosystem, and the
-                conservation efforts that have helped restore their populations in the wild.
-            </p>
-
+            <div class="bottom">
+                <h3>Bison:</h3>
+                <p>Introducing our robust bison herd, led by the mighty Thunder, and his companions, Storm and Breeze.
+                    These
+                    magnificent creatures, often referred to as buffalo, are symbols of the American West and once
+                    roamed
+                    the plains in vast numbers. Observe our bison as they graze on the grasslands, showcasing their
+                    strength
+                    and resilience. Learn about their historical significance, their role in the ecosystem, and the
+                    conservation efforts that have helped restore their populations in the wild.
+                </p>
+            </div>
         </div>
+
         <nav>
             <a href="homepage">Home</a>
             <a href="african area">African Area</a>
@@ -52,28 +62,37 @@
             <a href="arctic area">Arctic Area</a>
             <a href="about us">About Us</a>
         </nav>
-        <div>
-            <h3>Moose: </h3>
-            <p>Meet our majestic moose duo, Maple and Forest. These awe-inspiring animals are the largest members of the
-                deer family and are known for their towering stature and impressive antlers. Watch as Maple and Forest
-                roam our American area, foraging on aquatic vegetation and demonstrating their exceptional swimming
-                abilities. Discover more about their unique adaptations, social structure, and the ongoing conservation
-                programs aimed at protecting their habitats and populations.
-            </p>
-            <div class="righttext">
-                <img src="beaver-1-svetozar-cenisev.jpg" alt="">
-                <img src="moose-2-zachery-perry.jpg" alt="">
-                <img src="beaver-2-francesco-ungaro.jpg" alt="">
-            </div>
-            <h3>Beavers:</h3>
-            <p>Say hello to our industrious beaver family, Chip and Willow, along with their adorable kits. These
-                remarkable rodents are known as nature's engineers, with their ability to build intricate dams and
-                lodges that play a vital role in maintaining healthy wetland ecosystems. Observe our beavers at work as
-                they construct and maintain their impressive structures, using their sharp teeth and powerful tails.
-                Learn about their fascinating social behaviors, their importance in the ecosystem, and the conservation
-                efforts in place to protect these incredible creatures.
 
-            </p>
+        <div>
+            <div class="top">
+                <h3>Moose: </h3>
+                <p>Meet our majestic moose duo, Maple and Forest. These awe-inspiring animals are the largest members of
+                    the
+                    deer family and are known for their towering stature and impressive antlers. Watch as Maple and
+                    Forest
+                    roam our American area, foraging on aquatic vegetation and demonstrating their exceptional swimming
+                    abilities. Discover more about their unique adaptations, social structure, and the ongoing
+                    conservation
+                    programs aimed at protecting their habitats and populations.
+                </p>
+            </div>
+
+            <img src="beaver-1-svetozar-cenisev.jpg" alt="">
+            <img src="moose-2-zachery-perry.jpg" alt="">
+            <img src="beaver-2-francesco-ungaro.jpg" alt="">
+            <div class="bottom">
+                <h3>Beavers:</h3>
+                <p>Say hello to our industrious beaver family, Chip and Willow, along with their adorable kits. These
+                    remarkable rodents are known as nature's engineers, with their ability to build intricate dams and
+                    lodges that play a vital role in maintaining healthy wetland ecosystems. Observe our beavers at work
+                    as
+                    they construct and maintain their impressive structures, using their sharp teeth and powerful tails.
+                    Learn about their fascinating social behaviors, their importance in the ecosystem, and the
+                    conservation
+                    efforts in place to protect these incredible creatures.
+
+                </p>
+            </div>
         </div>
     </main>
     <footer>
@@ -91,7 +110,7 @@
 
         h2 {
             font-family: 'Bruno Ace', cursive;
-            margin-left: 30px;
+            /* margin-left: 30px; */
             text-align: center;
         }
 
@@ -101,6 +120,7 @@
 
         p {
             font-family: 'Space Grotesk', sans-serif;
+            text-align: justify;
         }
 
         a {
@@ -109,7 +129,7 @@
             color: #335c67;
             font-size: 1.2em;
             padding: 5%;
-            margin: 1em;
+            margin: 2em;
             margin-bottom: 3em;
             display: block;
             text-align: center;
@@ -121,7 +141,7 @@
         }
 
         main {
-            grid-area: m;
+
             display: flex;
             flex-direction: row;
         }
@@ -136,16 +156,28 @@
         }
 
         div {
-            margin: 0px 20px;
+            /* margin-bottom: 20px; */
             width: 40vw;
+            display: block;
         }
 
         img {
             height: 7.8em;
         }
 
-        .righttext {
-            margin-top: 9.5%;
+        .top {
+            margin-bottom: 5%;
+            margin-right: 5%;
+            display: block;
+            height: 16vw;
+
+        }
+
+        .bottom {
+
+            margin-right: 5%;
+            display: block;
+            height: 16vw;
         }
     </style>
 </body>
