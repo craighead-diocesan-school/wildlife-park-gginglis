@@ -20,14 +20,19 @@
     </header>
     <main>
         <div>
-            <h3>Step into the African Savannah</h3>
-            <p>Experience the magic of Africa's diverse and captivating landscapes, right here in South Canterbury! Our
-                African area is home to some of the continent's most iconic animals, including the majestic lion, the
-                swift cheetah, and the towering giraffe.
-                Stroll through our park and observe these magnificent creatures up close, while learning about their
-                natural habitats, behaviors, and the conservation efforts in place to protect their future. Don't miss
-                our daily animal encounters, feeding sessions, and interactive talks led by our passionate team of
-                animal experts. Unleash your inner explorer and experience the African Savannah today!
+            <div class="top">
+                <h3>Step into the African Savannah</h3>
+                <p>Experience the magic of Africa's diverse and captivating landscapes, right here in South Canterbury!
+                    Our
+                    African area is home to some of the continent's most iconic animals, including the majestic lion,
+                    the
+                    swift cheetah, and the towering giraffe.
+                    Stroll through our park and observe these magnificent creatures up close, while learning about their
+                    natural habitats, behaviors, and the conservation efforts in place to protect their future. Don't
+                    miss
+                    our daily animal encounters, feeding sessions, and interactive talks led by our passionate team of
+                    animal experts. Unleash your inner explorer and experience the African Savannah today!
+            </div>
             </p>
             <img src="cheetah-1-rodrigo-ardilha.jpg" alt="">
             <img src="cheetah-2-christin-noelle.jpg" alt="">
@@ -49,7 +54,7 @@
             <a href="about us">About Us</a>
         </nav>
         <div>
-            <div class="lions">
+            <div class="top">
                 <h3>Lions: </h3>
                 <p>Introducing our pride of lions, led by our regal male, Leo, and his beautiful lioness companions,
                     Nala
@@ -64,13 +69,20 @@
             <img src="giraffe-2-sian-cooper.jpg" alt="">
             <img src="lion-2-leonard-von-bibra.jpg" alt="">
             <img src="giraffe-1-nikolay-tchaouchev.jpg" alt="">
-            <h3>Giraffes:</h3>
-            <p>Say hello to our gentle giants, Skyler, the tallest in our park, and Luna, a young and curious female.
-                These awe-inspiring creatures are known for their elongated necks and distinctive spotted patterns,
-                which provide camouflage in the wild. At our wildlife park, you can witness Skyler and Luna gracefully
-                browsing on tree leaves and engaging in gentle interactions with each other. Learn about their unique
-                physiology, social behaviors, and the ongoing conservation efforts to preserve their natural habitats.
-            </p>
+
+            <div class="bottom">
+                <h3>Giraffes:</h3>
+                <p>Say hello to our gentle giants, Skyler, the tallest in our park, and Luna, a young and curious
+                    female.
+                    These awe-inspiring creatures are known for their elongated necks and distinctive spotted patterns,
+                    which provide camouflage in the wild. At our wildlife park, you can witness Skyler and Luna
+                    gracefully
+                    browsing on tree leaves and engaging in gentle interactions with each other. Learn about their
+                    unique
+                    physiology, social behaviors, and the ongoing conservation efforts to preserve their natural
+                    habitats.
+                </p>
+            </div>
         </div>
     </main>
     <footer>
@@ -142,10 +154,12 @@
             height: 7.8em;
         }
 
-        .lions {
+        .top {
             padding-bottom: 4%;
-            /* margin-right: 5%; */
+            margin-right: 5%;
             display: block;
         }
+
+        .bottom {}
     </style>
 </body>
