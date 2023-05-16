@@ -43,10 +43,10 @@
                 habitat. Learn about their unique adaptations, their critical role in the Arctic ecosystem, and the
                 urgent conservation efforts in place to address the threats they face due to climate change and habitat
                 loss.
-
             </p>
-
         </div>
+
+
         <nav>
             <a href="homepage">Home</a>
             <a href="african area">African Area</a>
@@ -74,7 +74,6 @@
                 diving abilities, while also showcasing their social interactions and vocalizations. Learn about their
                 unique physiology, their importance in the Arctic food chain, and the conservation efforts in place to
                 ensure the survival and protection of these captivating creatures.
-
             </p>
         </div>
     </main>
@@ -114,7 +113,6 @@
             margin: 1em;
             margin-bottom: 3em;
             display: block;
-            text-align: center;
         }
 
         a:hover {
@@ -130,7 +128,7 @@
 
         footer {
             font-family: 'Space Grotesk', sans-serif;
-            /* margin-left: 30px; */
+            margin-left: 30px;
             padding: 3%;
             background-color: #fff3b0;
             color: #000000;
@@ -144,11 +142,6 @@
 
         img {
             height: 7.8em;
-        }
-
-        .righttext {
-            padding-bottom: 6.8%;
-            /* margin-right: 5%; */
         }
     </style>
 </body>

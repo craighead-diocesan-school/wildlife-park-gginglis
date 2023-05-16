@@ -118,7 +118,7 @@
         }
 
         main {
-            grid-area: m;
+
             display: flex;
             flex-direction: row;
         }
@@ -133,8 +133,9 @@
         }
 
         div {
-            margin: 0px 20px;
+            margin-bottom: 20px;
             width: 40vw;
+            display: block;
         }
 
         img {
@@ -142,8 +143,9 @@
         }
 
         .lions {
-            padding-bottom: 6.8%;
+            padding-bottom: 4%;
             /* margin-right: 5%; */
+            display: block;
         }
     </style>
 </body>
