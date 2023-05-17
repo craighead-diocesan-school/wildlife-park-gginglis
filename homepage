@@ -92,6 +92,7 @@
             padding: 5%;
             margin: 1em;
             display: block;
+
         }
 
         a:hover {
@@ -121,6 +122,12 @@
 
         img {
             height: 7.8em;
+        }
+
+        nav {
+            background-image: url("river.png");
+            background-repeat: no-repeat;
+            background-size: 300px 100px;
         }
     </style>
 </body>

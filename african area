@@ -36,9 +36,10 @@
                     animal experts. Unleash your inner explorer and experience the African Savannah today!
             </div>
             </p>
-            <img src="cheetah-1-rodrigo-ardilha.jpg" alt="">
-            <img src="cheetah-2-christin-noelle.jpg" alt="">
-            <img src="cheetah-3-sammy-wong.jpg" alt="">
+
+            <img src="cheetah-1-rodrigo-ardilha.jpg" height="500" alt="" title="&copy; Rodrigo Ardilha">
+            <img src="cheetah-2-christin-noelle.jpg" height="500" alt="" title="&copy; Christin Noelle">
+            <img src="cheetah-3-sammy-wong.jpg" height="500" alt="" title="&copy; Sammy Wong">
 
             <h3>Cheetahs:</h3>
             <p>Meet our swift and graceful cheetah duo, Dash and Blaze. These elegant felines hold the title of the
@@ -67,10 +68,11 @@
                     and rest together. Learn about their hunting techniques, their roles within the pride, and the
                     conservation efforts in place to protect these incredible animals in the wild.</p>
             </div>
-            <img src="lion-1-jeremy-avery.jpg" alt="">
-            <img src="giraffe-2-sian-cooper.jpg" alt="">
-            <img src="lion-2-leonard-von-bibra.jpg" alt="">
-            <img src="giraffe-1-nikolay-tchaouchev.jpg" alt="">
+
+            <img src="lion-1-jeremy-avery.jpg" height="500" alt="" title="&copy; Jeremy Avery">
+            <img src="giraffe-2-sian-cooper.jpg" height="500" alt="" title="&copy; Sian Cooper">
+            <img src="lion-2-leonard-von-bibra.jpg" height="500" alt="" title="&copy; Leonard von Bibra">
+            <img src="giraffe-1-nikolay-tchaouchev.jpg" height="500" alt="" title="&copy; Nikolay Tchaouchev">
 
             <div class="bottom">
                 <h3>Giraffes:</h3>
