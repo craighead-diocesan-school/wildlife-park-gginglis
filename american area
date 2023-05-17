@@ -37,10 +37,10 @@
                     wildlife of the American continent.</p>
             </div>
             <div class="img">
-                <img src="bison-1-pete-nuij.jpg" alt="">
-                <img src="bison-2-philip-brown.jpg" alt="">
-                <img src="bison-3-goutham-ganesh.jpg" alt="">
-                <img src="moose-1-sam-te-kiefte.jpg" alt="">
+                <img src="bison-1-pete-nuij.jpg" height="500" alt="" title="&copy; Pete Nuij">
+                <img src="bison-2-philip-brown.jpg" height="500" alt="" title="&copy; Philip Brown">
+                <img src="bison-3-goutham-ganesh.jpg" height="500" alt="" title="&copy; Goutham Ganesh">
+                <img src="moose-1-sam-te-kiefte.jpg" height="500" alt="" title="&copy; Sam Te Kiefte">
             </div>
             <div class="bottom">
                 <h3>Bison:</h3>
@@ -77,9 +77,10 @@
                 </p>
             </div>
             <div class="img">
-                <img src="beaver-1-svetozar-cenisev.jpg" alt="">
-                <img src="moose-2-zachery-perry.jpg" alt="">
-                <img src="beaver-2-francesco-ungaro.jpg" alt="">
+                <img src="beaver-1-svetozar-cenisev.jpg" height="500" alt="" title="&copy; Svetozar Cenisev">
+                <img src="beaver-2-francesco-ungaro.jpg" height="500" alt="" title="&copy; Francesco Ungaro">
+                <img src="moose-2-zachery-perry.jpg" height="500" alt="" title="&copy; Zachery Perry">
+
             </div>
             <div class="bottom">
                 <h3>Beavers:</h3>
@@ -100,86 +101,91 @@
     <footer>
         &copy; g 23 ♡♡♡
     </footer>
-
-    <style>
-        h1 {
-            grid-area: h;
-            font-family: 'Bruno Ace SC', cursive;
-            font-size: 3em;
-            background-color: #e09f3e;
-            color: white;
-            padding: 3%;
-        }
-
-        h2 {
-            font-family: 'Bruno Ace', cursive;
-            /* margin-left: 30px; */
-            text-align: center;
-            text-shadow: 1px 1px #e09f3e;
-        }
-
-        h3 {
-            font-family: 'Bruno Ace', cursive;
-        }
-
-        p {
-            font-family: 'Space Grotesk', sans-serif;
-            text-align: justify;
-        }
-
-        a {
-            font-family: 'Space Grotesk', sans-serif;
-            text-decoration: none;
-            color: #335c67;
-            font-size: 1.2em;
-            padding: 5%;
-            margin: 2em;
-            margin-bottom: 3em;
-            display: block;
-            text-align: center;
-        }
-
-        a:hover {
-            background-color: #335c67;
-            color: white;
-        }
-
-        main {
-            margin-left: 2%;
-            display: flex;
-            flex-direction: row;
-        }
-
-        footer {
-            font-family: 'Space Grotesk', sans-serif;
-            padding: 3%;
-            background-color: #fff3b0;
-            color: #000000;
-            text-align: center;
-        }
-
-        div {
-            width: 40vw;
-            display: block;
-        }
-
-        img {
-            height: 7.8em;
-        }
-
-        .top {
-            margin-bottom: 5%;
-            display: block;
-            height: 16vw;
-
-        }
-
-        .bottom {
-            display: block;
-            height: 16vw;
-            margin-bottom: 3%;
-        }
-
-        .img {}
-    </style>
 </body>
+
+<style>
+    h1 {
+        grid-area: h;
+        font-family: 'Bruno Ace SC', cursive;
+        font-size: 3em;
+        background-color: #e09f3e;
+        color: white;
+        padding: 3%;
+    }
+
+    h2 {
+        font-family: 'Bruno Ace', cursive;
+        text-align: center;
+        text-shadow: 1px 1px #e09f3e;
+    }
+
+    h3 {
+        font-family: 'Bruno Ace', cursive;
+    }
+
+    p {
+        font-family: 'Space Grotesk', sans-serif;
+        text-align: justify;
+    }
+
+    a {
+        font-family: 'Space Grotesk', sans-serif;
+        text-decoration: none;
+        color: #335c67;
+        font-size: 1.2em;
+        padding: 5%;
+        margin: 2em;
+        margin-bottom: 3em;
+        display: block;
+        text-align: center;
+    }
+
+    a:hover {
+        background-color: #335c67;
+        color: white;
+    }
+
+    main {
+        margin-left: 2%;
+        display: flex;
+        flex-direction: row;
+    }
+
+    footer {
+        font-family: 'Space Grotesk', sans-serif;
+        padding: 3%;
+        background-color: #fff3b0;
+        color: #000000;
+        text-align: center;
+    }
+
+    div {
+        width: 40vw;
+        display: block;
+    }
+
+    img {
+        height: 7.8em;
+    }
+
+    .top {
+        margin-bottom: 5%;
+        display: block;
+        height: 16vw;
+
+    }
+
+    .bottom {
+        display: block;
+        height: 16vw;
+        margin-bottom: 3%;
+    }
+
+    .img {
+        /* position: relative; */
+    }
+
+    .content_img {
+        /* position: absolute; */
+    }
+</style>
