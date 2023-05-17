@@ -115,6 +115,7 @@
             font-family: 'Bruno Ace', cursive;
             /* margin-left: 30px; */
             text-align: center;
+            text-shadow: 1px 1px #e09f3e;
         }
 
         h3 {
@@ -151,7 +152,6 @@
 
         footer {
             font-family: 'Space Grotesk', sans-serif;
-            /* margin-left: 30px; */
             padding: 3%;
             background-color: #fff3b0;
             color: #000000;
@@ -159,30 +159,25 @@
         }
 
         div {
-            /* margin-bottom: 20px; */
             width: 40vw;
             display: block;
-            /* margin-left: 5%; */
         }
 
         img {
             height: 7.8em;
-            /* margin-left: 0.5%; */
         }
 
         .top {
             margin-bottom: 5%;
-            margin-left: 5%;
             display: block;
             height: 16vw;
 
         }
 
         .bottom {
-
-            margin-left: 5%;
             display: block;
             height: 16vw;
+            margin-bottom: 3%;
         }
 
         .img {}
