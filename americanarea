@@ -189,7 +189,7 @@
     }
 
     nav {
-        background-image: url("river0.png");
+        background-image: url("river357.png");
         background-repeat: no-repeat;
         background-size: cover;
     }

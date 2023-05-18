@@ -105,88 +105,87 @@
     <footer>
         &copy; g 23 ♡♡♡
     </footer>
-
-    <style>
-        h1 {
-            grid-area: h;
-            font-family: 'Bruno Ace SC', cursive;
-            font-size: 3em;
-            background-color: #e09f3e;
-            color: white;
-            padding: 3%;
-        }
-
-        h2 {
-            font-family: 'Bruno Ace', cursive;
-            text-align: center;
-            text-shadow: 1px 1px #e09f3e;
-        }
-
-        h3 {
-            font-family: 'Bruno Ace', cursive;
-        }
-
-        p {
-            font-family: 'Space Grotesk', sans-serif;
-            text-align: justify;
-        }
-
-        a {
-            font-family: 'Space Grotesk', sans-serif;
-            text-decoration: none;
-            color: white;
-            font-size: 1.2em;
-            padding: 5%;
-            margin: 2em;
-            margin-bottom: 3em;
-            display: block;
-            text-align: center;
-        }
-
-        a:hover {
-            color: rgb(182, 190, 195);
-        }
-
-        main {
-            margin-left: 2%;
-            display: flex;
-            flex-direction: row;
-        }
-
-        footer {
-            font-family: 'Space Grotesk', sans-serif;
-            padding: 3%;
-            background-color: #fff3b0;
-            color: #000000;
-            text-align: center;
-        }
-
-        div {
-            width: 40vw;
-            display: block;
-        }
-
-        img {
-            height: 7.8em;
-        }
-
-        .top {
-            margin-bottom: 5%;
-            margin-right: 5%;
-            display: block;
-            height: 16vw;
-        }
-
-        .bottom {
-            margin-right: 5%;
-            display: block;
-            height: 16vw;
-        }
-
-        nav {
-            background-image: url("river0.png");
-            background-repeat: no-repeat;
-            background-size: cover;
-        }
-    </style>
 </body>
+<style>
+    h1 {
+        grid-area: h;
+        font-family: 'Bruno Ace SC', cursive;
+        font-size: 3em;
+        background-color: #e09f3e;
+        color: white;
+        padding: 3%;
+    }
+
+    h2 {
+        font-family: 'Bruno Ace', cursive;
+        text-align: center;
+        text-shadow: 1px 1px #e09f3e;
+    }
+
+    h3 {
+        font-family: 'Bruno Ace', cursive;
+    }
+
+    p {
+        font-family: 'Space Grotesk', sans-serif;
+        text-align: justify;
+    }
+
+    a {
+        font-family: 'Space Grotesk', sans-serif;
+        text-decoration: none;
+        color: white;
+        font-size: 1.2em;
+        padding: 5%;
+        margin: 2em;
+        margin-bottom: 3em;
+        display: block;
+        text-align: center;
+    }
+
+    a:hover {
+        color: rgb(182, 190, 195);
+    }
+
+    main {
+        margin-left: 2%;
+        display: flex;
+        flex-direction: row;
+    }
+
+    footer {
+        font-family: 'Space Grotesk', sans-serif;
+        padding: 3%;
+        background-color: #fff3b0;
+        color: #000000;
+        text-align: center;
+    }
+
+    div {
+        width: 40vw;
+        display: block;
+    }
+
+    img {
+        height: 7.8em;
+    }
+
+    .top {
+        margin-bottom: 5%;
+        margin-right: 5%;
+        display: block;
+        height: 16vw;
+    }
+
+    .bottom {
+        margin-right: 5%;
+        display: block;
+        height: 16vw;
+    }
+
+    nav {
+        background-image: url("river357.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+</style>

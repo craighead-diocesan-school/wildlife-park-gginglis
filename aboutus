@@ -106,7 +106,6 @@
 
     h2 {
         font-family: 'Bruno Ace', cursive;
-        /* margin-left: 30px; */
         text-align: center;
         text-shadow: 1px 1px #e09f3e;
     }
@@ -177,7 +176,7 @@
     }
 
     nav {
-        background-image: url("river0.png");
+        background-image: url("river357.png");
         background-repeat: no-repeat;
         background-size: cover;
     }
