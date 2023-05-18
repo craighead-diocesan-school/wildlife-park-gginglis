@@ -53,10 +53,10 @@
         </div>
         <nav>
             <a href="homepage">Home</a>
-            <a href="african area">African Area</a>
-            <a href="american area">American Area</a>
-            <a href="arctic area">Arctic Area</a>
-            <a href="about us">About Us</a>
+            <a href="africanarea">African Area</a>
+            <a href="americanarea">American Area</a>
+            <a href="arcticarea">Arctic Area</a>
+            <a href="aboutus">About Us</a>
         </nav>
         <div>
             <div class="top">
@@ -92,93 +92,93 @@
     <footer>
         &copy; g 23 ♡♡♡
     </footer>
-
-    <style>
-        h1 {
-            grid-area: h;
-            font-family: 'Bruno Ace SC', cursive;
-            font-size: 3em;
-            background-color: #e09f3e;
-            color: white;
-            padding: 3%;
-        }
-
-        h2 {
-            font-family: 'Bruno Ace', cursive;
-            /* margin-left: 30px; */
-            text-align: center;
-            text-shadow: 1px 1px #e09f3e;
-        }
-
-        h3 {
-            font-family: 'Bruno Ace', cursive;
-        }
-
-        p {
-            font-family: 'Space Grotesk', sans-serif;
-            text-align: justify;
-        }
-
-        a {
-            font-family: 'Space Grotesk', sans-serif;
-            text-decoration: none;
-            color: white;
-            font-size: 1.2em;
-            padding: 5%;
-            margin: 2em;
-            margin-bottom: 3em;
-            display: block;
-            text-align: center;
-        }
-
-        a:hover {
-            color: rgb(182, 190, 195);
-        }
-
-        main {
-            margin-left: 2%;
-            display: flex;
-            flex-direction: row;
-        }
-
-        footer {
-            font-family: 'Space Grotesk', sans-serif;
-            /* margin-left: 30px; */
-            padding: 3%;
-            background-color: #fff3b0;
-            color: #000000;
-            text-align: center;
-        }
-
-        div {
-            /* margin-bottom: 20px; */
-            width: 40vw;
-            display: block;
-        }
-
-        img {
-            height: 7.8em;
-        }
-
-        .top {
-            margin-bottom: 5%;
-            margin-right: 5%;
-            display: block;
-            height: 14vw;
-
-        }
-
-        .bottom {
-
-            margin-right: 5%;
-            display: block;
-            height: 14vw;
-        }
-
-        nav {
-            background-image: url("river0.png");
-            background-repeat: no-repeat;
-            background-size: cover;
-        }
-    </style>
 </body>
+
+<style>
+    h1 {
+        grid-area: h;
+        font-family: 'Bruno Ace SC', cursive;
+        font-size: 3em;
+        background-color: #e09f3e;
+        color: white;
+        padding: 3%;
+    }
+
+    h2 {
+        font-family: 'Bruno Ace', cursive;
+        /* margin-left: 30px; */
+        text-align: center;
+        text-shadow: 1px 1px #e09f3e;
+    }
+
+    h3 {
+        font-family: 'Bruno Ace', cursive;
+    }
+
+    p {
+        font-family: 'Space Grotesk', sans-serif;
+        text-align: justify;
+    }
+
+    a {
+        font-family: 'Space Grotesk', sans-serif;
+        text-decoration: none;
+        color: white;
+        font-size: 1.2em;
+        padding: 5%;
+        margin: 2em;
+        margin-bottom: 3em;
+        display: block;
+        text-align: center;
+    }
+
+    a:hover {
+        color: rgb(182, 190, 195);
+    }
+
+    main {
+        margin-left: 2%;
+        display: flex;
+        flex-direction: row;
+    }
+
+    footer {
+        font-family: 'Space Grotesk', sans-serif;
+        /* margin-left: 30px; */
+        padding: 3%;
+        background-color: #fff3b0;
+        color: #000000;
+        text-align: center;
+    }
+
+    div {
+        /* margin-bottom: 20px; */
+        width: 40vw;
+        display: block;
+    }
+
+    img {
+        height: 7.8em;
+    }
+
+    .top {
+        margin-bottom: 5%;
+        margin-right: 5%;
+        display: block;
+        height: 14vw;
+
+    }
+
+    .bottom {
+
+        margin-right: 5%;
+        display: block;
+        height: 14vw;
+    }
+
+    nav {
+        background-image: url("river0.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+</style>

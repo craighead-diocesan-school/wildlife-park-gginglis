@@ -42,10 +42,10 @@
         </div>
         <nav>
             <a href="homepage">Home</a>
-            <a href="african area">African Area</a>
-            <a href="american area">American Area</a>
-            <a href="arctic area">Arctic Area</a>
-            <a href="about us">About Us</a>
+            <a href="africanarea">African Area</a>
+            <a href="americanarea">American Area</a>
+            <a href="arcticarea">Arctic Area</a>
+            <a href="aboutus">About Us</a>
         </nav>
         <div>
             <img src="cheetah-1-rodrigo-ardilha.jpg" height="500" alt="cheetah photographed by Rodrigo Ardilha"
