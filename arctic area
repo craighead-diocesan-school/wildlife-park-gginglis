@@ -38,10 +38,12 @@
 
                 </p>
             </div>
-
-            <img src="polar-bear-1-jason-hillier.jpg" height="500" alt="" title="&copy; Jason Hillier">
-            <img src="polar-bear-2-peter-neumann.jpg" height="500" alt="" title="&copy; Peter Neumann">
-            <img src="arctic-fox-2-sridhar-chilimuri.jpg" height="500" alt="" title="&copy; Sridhar Chilimuri">
+            <img src="polar-bear-1-jason-hillier.jpg" height="500" alt="polar bear photographed by Jason Hillier"
+                title="&copy; Jason Hillier">
+            <img src="polar-bear-2-peter-neumann.jpg" height="500" alt="polar bear photographed by Peter Neumann"
+                title="&copy; Peter Neumann">
+            <img src="arctic-fox-2-sridhar-chilimuri.jpg" height="500"
+                alt="arctic fox photographed by Sridhar Chilimuri" title="&copy; Sridhar Chilimuri">
             <div class="bottom">
                 <h3>Polar Bears:</h3>
                 <p>Introducing our majestic polar bear duo, Aurora and Frost. These awe-inspiring creatures are the
@@ -76,12 +78,13 @@
 
                 </p>
             </div>
-            <img src="" alt="">
-            <img src="" alt="">
-            <img src="" alt="">
-            <img src="arctic-fox-3-teresa.jpg" height="500" alt="" title="&copy; Teresa">
-            <img src="fur-seal-1-karen-lau.jpg" height="500" alt="" title="&copy; Karen Lau">
-            <img src="fur-seal-2-simon-infanger.jpg" height="500" alt="" title="&copy; Simon Infanger">
+
+            <img src="arctic-fox-3-teresa.jpg" height="500" alt="arctic fox photographed by Teresa"
+                title="&copy; Teresa">
+            <img src="fur-seal-1-karen-lau.jpg" height="500" alt="fur seal photographed by Karen Lau"
+                title="&copy; Karen Lau">
+            <img src="fur-seal-2-simon-infanger.jpg" height="500" alt="fur seal photographed by Simon Infanger"
+                title="&copy; Simon Infanger">
             <div class="bottom">
                 <h3>Fur Seals:</h3>
                 <p>Say hello to our delightful fur seal family, Splash, Wave, and their playful pups. These endearing
@@ -115,7 +118,6 @@
 
         h2 {
             font-family: 'Bruno Ace', cursive;
-            /* margin-left: 30px; */
             text-align: center;
             text-shadow: 1px 1px #e09f3e;
         }
@@ -153,7 +155,6 @@
 
         footer {
             font-family: 'Space Grotesk', sans-serif;
-            /* margin-left: 30px; */
             padding: 3%;
             background-color: #fff3b0;
             color: #000000;
@@ -161,7 +162,6 @@
         }
 
         div {
-            /* margin-bottom: 20px; */
             width: 40vw;
             display: block;
         }
@@ -175,11 +175,9 @@
             margin-right: 5%;
             display: block;
             height: 16vw;
-
         }
 
         .bottom {
-
             margin-right: 5%;
             display: block;
             height: 16vw;

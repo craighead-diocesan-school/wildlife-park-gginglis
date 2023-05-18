@@ -37,9 +37,12 @@
             </div>
             </p>
 
-            <img src="cheetah-1-rodrigo-ardilha.jpg" height="500" alt="" title="&copy; Rodrigo Ardilha">
-            <img src="cheetah-2-christin-noelle.jpg" height="500" alt="" title="&copy; Christin Noelle">
-            <img src="cheetah-3-sammy-wong.jpg" height="500" alt="" title="&copy; Sammy Wong">
+            <img src="cheetah-1-rodrigo-ardilha.jpg" height="500" alt="cheetah photographed by Rodrigo Ardilha"
+                title="&copy; Rodrigo Ardilha">
+            <img src="cheetah-2-christin-noelle.jpg" height="500" alt="cheetah photographed by Christin Noelle"
+                title="&copy; Christin Noelle">
+            <img src="cheetah-3-sammy-wong.jpg" height="500" alt="cheetah photographed by Sammy Wong"
+                title="&copy; Sammy Wong">
 
             <h3>Cheetahs:</h3>
             <p>Meet our swift and graceful cheetah duo, Dash and Blaze. These elegant felines hold the title of the
@@ -69,10 +72,14 @@
                     conservation efforts in place to protect these incredible animals in the wild.</p>
             </div>
 
-            <img src="lion-1-jeremy-avery.jpg" height="500" alt="" title="&copy; Jeremy Avery">
-            <img src="giraffe-2-sian-cooper.jpg" height="500" alt="" title="&copy; Sian Cooper">
-            <img src="lion-2-leonard-von-bibra.jpg" height="500" alt="" title="&copy; Leonard von Bibra">
-            <img src="giraffe-1-nikolay-tchaouchev.jpg" height="500" alt="" title="&copy; Nikolay Tchaouchev">
+            <img src="lion-1-jeremy-avery.jpg" height="500" alt="lion photographed by Jeremy Avery"
+                title="&copy; Jeremy Avery">
+            <img src="giraffe-2-sian-cooper.jpg" height="500" alt="giraffe photographed by Sian Cooper"
+                title="&copy; Sian Cooper">
+            <img src="lion-2-leonard-von-bibra.jpg" height="500" alt="lion photographed by Leonard von Bibra"
+                title="&copy; Leonard von Bibra">
+            <img src="giraffe-1-nikolay-tchaouchev.jpg" height="500" alt="giraffe photographed by Nikolay Tchaouchev"
+                title="&copy; Nikolay Tchaouchev">
 
             <div class="bottom">
                 <h3>Giraffes:</h3>

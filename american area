@@ -37,10 +37,14 @@
                     wildlife of the American continent.</p>
             </div>
             <div class="img">
-                <img src="bison-1-pete-nuij.jpg" height="500" alt="" title="&copy; Pete Nuij">
-                <img src="bison-2-philip-brown.jpg" height="500" alt="" title="&copy; Philip Brown">
-                <img src="bison-3-goutham-ganesh.jpg" height="500" alt="" title="&copy; Goutham Ganesh">
-                <img src="moose-1-sam-te-kiefte.jpg" height="500" alt="" title="&copy; Sam Te Kiefte">
+                <img src="bison-1-pete-nuij.jpg" height="500" alt="bison photographed by Pete Nuij"
+                    title="&copy; Pete Nuij">
+                <img src="bison-2-philip-brown.jpg" height="500" alt="bison photographed by Philip Brown"
+                    title="&copy; Philip Brown">
+                <img src="bison-3-goutham-ganesh.jpg" height="500" alt="bison photographed by Goutham Ganesh"
+                    title="&copy; Goutham Ganesh">
+                <img src="moose-1-sam-te-kiefte.jpg" height="500" alt="moose photographed by Sam te Kiefte"
+                    title="&copy; Sam Te Kiefte">
             </div>
             <div class="bottom">
                 <h3>Bison:</h3>
@@ -77,9 +81,12 @@
                 </p>
             </div>
             <div class="img">
-                <img src="beaver-1-svetozar-cenisev.jpg" height="500" alt="" title="&copy; Svetozar Cenisev">
-                <img src="beaver-2-francesco-ungaro.jpg" height="500" alt="" title="&copy; Francesco Ungaro">
-                <img src="moose-2-zachery-perry.jpg" height="500" alt="" title="&copy; Zachery Perry">
+                <img src="beaver-1-svetozar-cenisev.jpg" height="500" alt="beaver photographed by Svetozar Cenisev"
+                    title="&copy; Svetozar Cenisev">
+                <img src="beaver-2-francesco-ungaro.jpg" height="500" alt="beaver photographed by Francesco Ungaro"
+                    title="&copy; Francesco Ungaro">
+                <img src="moose-2-zachery-perry.jpg" height="500" alt="moose photographed by Zachery Perry"
+                    title="&copy; Zachery Perry">
 
             </div>
             <div class="bottom">
