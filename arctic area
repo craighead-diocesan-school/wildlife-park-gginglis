@@ -184,7 +184,7 @@
         }
 
         nav {
-            background-image: url("river.png");
+            background-image: url("nav.png");
             background-repeat: no-repeat;
             background-size: cover;
         }
