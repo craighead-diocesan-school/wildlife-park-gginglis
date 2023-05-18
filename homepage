@@ -33,9 +33,9 @@
                 playful arctic foxes, and gentle giraffes, all within our carefully designed and maintained habitats
                 that
                 prioritize animal welfare and conservation.</p>
-            <img src="grizzly-1-zdenek-machacek.jpg" alt="">
-            <img src="moose-2-zachery-perry.jpg" alt="">
-            <img src="arctic-fox-2-sridhar-chilimuri.jpg" alt="">
+            <img src="grizzly-1-zdenek-machacek.jpg" height="500" alt="" title="&copy; Zdenek Machacek">
+            <img src="moose-2-zachery-perry.jpg" height="500" alt="" title="&copy; Zachery Perry">
+            <img src="arctic-fox-2-sridhar-chilimuri.jpg" height="500" alt="" title="&copy; Sridhar Chilimuri">
         </div>
         <nav>
             <a href="homepage">Home</a>
@@ -45,9 +45,9 @@
             <a href="about us">About Us</a>
         </nav>
         <div>
-            <img src="cheetah-1-rodrigo-ardilha.jpg" alt="">
-            <img src="lion-1-jeremy-avery.jpg" alt="">
-            <img src="polar-bear-1-jason-hillier.jpg" alt="">
+            <img src="cheetah-1-rodrigo-ardilha.jpg" height="500" alt="" title="&copy; Rodrigo Ardilha">
+            <img src="lion-1-jeremy-avery.jpg" height="500" alt="" title="&copy; Jeremy Avery">
+            <img src="polar-bear-1-jason-hillier.jpg" height="500" alt="" title="&copy; Jason Hillier">
             <p>Join us as we celebrate the beauty of nature and inspire a new generation of wildlife enthusiasts. Our
                 park
                 offers a range of immersive experiences, educational programs, and engaging activities for visitors of
