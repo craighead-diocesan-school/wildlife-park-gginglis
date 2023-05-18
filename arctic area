@@ -38,10 +38,10 @@
 
                 </p>
             </div>
-            <img src="polar-bear-1-jason-hillier.jpg" alt="">
-            <img src="polar-bear-2-peter-neumann.jpg" alt="">
-            <img src="arctic-fox-2-sridhar-chilimuri.jpg" alt="">
 
+            <img src="polar-bear-1-jason-hillier.jpg" height="500" alt="" title="&copy; Jason Hillier">
+            <img src="polar-bear-2-peter-neumann.jpg" height="500" alt="" title="&copy; Peter Neumann">
+            <img src="arctic-fox-2-sridhar-chilimuri.jpg" height="500" alt="" title="&copy; Sridhar Chilimuri">
             <div class="bottom">
                 <h3>Polar Bears:</h3>
                 <p>Introducing our majestic polar bear duo, Aurora and Frost. These awe-inspiring creatures are the
@@ -76,10 +76,12 @@
 
                 </p>
             </div>
-            <img src="arctic-fox-3-teresa.jpg" alt="">
-            <img src="fur-seal-1-karen-lau.jpg" alt="">
-            <img src="fur-seal-2-simon-infanger.jpg" alt="">
-
+            <img src="" alt="">
+            <img src="" alt="">
+            <img src="" alt="">
+            <img src="arctic-fox-3-teresa.jpg" height="500" alt="" title="&copy; Teresa">
+            <img src="fur-seal-1-karen-lau.jpg" height="500" alt="" title="&copy; Karen Lau">
+            <img src="fur-seal-2-simon-infanger.jpg" height="500" alt="" title="&copy; Simon Infanger">
             <div class="bottom">
                 <h3>Fur Seals:</h3>
                 <p>Say hello to our delightful fur seal family, Splash, Wave, and their playful pups. These endearing

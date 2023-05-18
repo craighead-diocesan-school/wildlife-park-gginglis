@@ -33,9 +33,10 @@
                     creating a unique wildlife park that fosters a strong connection between people and nature.
                 </p>
             </div>
-            <img src="grizzly-1-zdenek-machacek.jpg" alt="">
-            <img src="moose-2-zachery-perry.jpg" alt="">
-            <img src="arctic-fox-2-sridhar-chilimuri.jpg" alt="">
+
+            <img src="grizzly-1-zdenek-machacek.jpg" height="500" alt="" title="&copy; Zdenek Machacek">
+            <img src="moose-2-zachery-perry.jpg" height="500" alt="" title="&copy; Zachery Perry">
+            <img src="arctic-fox-2-sridhar-chilimuri.jpg" height="500" alt="" title="&copy; Sridhar Chilimuri">
             <div class="bottom">
                 <h3>Alex</h3>
                 <p>
@@ -66,10 +67,9 @@
                     protecting our planet's rich biodiversity.</p>
             </div>
 
-            <img src="cheetah-1-rodrigo-ardilha.jpg" alt="">
-            <img src="lion-1-jeremy-avery.jpg" alt="">
-            <img src="polar-bear-1-jason-hillier.jpg" alt="">
-
+            <img src="cheetah-1-rodrigo-ardilha.jpg" height="500" alt="" title="&copy; Rodrigo Ardilha">
+            <img src="lion-1-jeremy-avery.jpg" height="500" alt="" title="&copy; Jeremy Avery">
+            <img src="polar-bear-1-jason-hillier.jpg" height="500" alt="" title="&copy; Jason Hillier">
             <div class="bottom">
                 <h3>Alex and Taylor</h3>
                 <p>Together, Alex and Taylor have turned their vision into a reality, creating a wildlife park that not
