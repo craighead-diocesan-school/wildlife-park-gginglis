@@ -130,7 +130,7 @@
         a {
             font-family: 'Space Grotesk', sans-serif;
             text-decoration: none;
-            color: #335c67;
+            color: white;
             font-size: 1.2em;
             padding: 5%;
             margin: 2em;
@@ -140,8 +140,7 @@
         }
 
         a:hover {
-            background-color: #335c67;
-            color: white;
+            color: rgb(182, 190, 195);
         }
 
         main {
@@ -182,6 +181,12 @@
             margin-right: 5%;
             display: block;
             height: 16vw;
+        }
+
+        nav {
+            background-image: url("river.png");
+            background-repeat: no-repeat;
+            background-size: cover;
         }
     </style>
 </body>

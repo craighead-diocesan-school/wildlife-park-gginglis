@@ -126,8 +126,7 @@
         }
 
         a:hover {
-            background-color: #335c67;
-            color: white;
+            color: rgb(182, 190, 195);
         }
 
         main {
@@ -168,6 +167,12 @@
             margin-right: 5%;
             display: block;
             height: 14vw;
+        }
+
+        nav {
+            background-image: url("river.png");
+            background-repeat: no-repeat;
+            background-size: cover;
         }
     </style>
 </body>

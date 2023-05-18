@@ -93,11 +93,11 @@
             margin: 1em;
             display: block;
             text-align: center;
+            /* width: 100%;  */
         }
 
         a:hover {
-            /* background-color: #335c67; */
-            color: #234d58;
+            color: rgb(182, 190, 195);
         }
 
         main {
@@ -125,7 +125,7 @@
         }
 
         nav {
-            background-image: url("river3.png");
+            background-image: url("river.png");
             background-repeat: no-repeat;
             background-size: cover;
         }
