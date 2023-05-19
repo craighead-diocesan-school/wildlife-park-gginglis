@@ -148,7 +148,6 @@
     }
 
     a:hover {
-        /* background-color: #335c67; */
         color: rgb(182, 190, 195);
     }
 
