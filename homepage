@@ -99,7 +99,6 @@
             margin: 1em;
             display: block;
             text-align: center;
-            /* width: 100%;  */
         }
 
         a:hover {
@@ -114,7 +113,6 @@
 
         footer {
             font-family: 'Space Grotesk', sans-serif;
-            /* margin-left: 30px; */
             padding: 3%;
             background-color: #fff3b0;
             color: #000000;
@@ -131,7 +129,7 @@
         }
 
         nav {
-            background-image: url("nice.png");
+            background-image: url("nananan.png");
             background-repeat: no-repeat;
             background-size: cover;
         }

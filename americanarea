@@ -189,7 +189,7 @@
     }
 
     nav {
-        background-image: url("nice.png");
+        background-image: url("nananan.png");
         background-repeat: no-repeat;
         background-size: cover;
     }
